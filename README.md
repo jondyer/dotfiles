@@ -1,1 +1,1 @@
-My custom folder for .oh-my-zsh, for ease of configuration elsewhere.
+Regular dotfiles for development.
